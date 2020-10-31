@@ -1,0 +1,13 @@
+button {
+    margin-top: 50vh;
+    color: #ff6347;
+    background-color: white;
+}
+
+.btn {
+    background-color: white;
+    border: 1px solid violet !important;
+}
+body {
+    background-color: teal;
+}
